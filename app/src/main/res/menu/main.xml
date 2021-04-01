@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:title="直线运动"
+        android:id="@+id/action_line_move"
+        android:orderInCategory="1"
+        app:showAsAction="never" />
+    <item android:title="圆周运动"
+        android:id="@+id/action_circle_move"
+        android:orderInCategory="2"
+        app:showAsAction="never" />
+    <item android:title="简谐运动"
+        android:id="@+id/action_simple_harmonic"
+        android:orderInCategory="3"
+        app:showAsAction="never" />
+</menu>
