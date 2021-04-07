@@ -10,8 +10,11 @@
         android:id="@+id/action_circle_move"
         android:orderInCategory="2"
         app:showAsAction="never" />
+
     <item android:title="简谐运动"
         android:id="@+id/action_simple_harmonic"
         android:orderInCategory="3"
         app:showAsAction="never" />
+
+
 </menu>
